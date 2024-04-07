@@ -3,7 +3,7 @@ making it significantly cheaper and faster for Universities and Employers to con
 
 There are 2 components of the dApp : **eSealing and Verification** 
 
-**eSealing Tab**: is used to register the file on the Blockchain after signing the transaction using Concordium wallet. 
+**eSealing Tab**: is used to register the file on the Blockchain after signing the transaction using web3 wallet. 
 While registering any certificate on the e-Sealer section, we enter 3 metadata field : Certificate Issued to (Certificate Beneficiary), Certificate Issued by (Issuing Authority) and Certificate Type (about the Certificate).
 We then upload the digital certificate copy on the blockchain from your local computer/desktop.
 Then we click on "Register File Hash" button, a cryptographic wallet opens up, we sign the transaction on chain and pay the gas fees. 

@@ -10,8 +10,7 @@ Then we click on "Register File Hash" button, a cryptographic wallet opens up, w
 This registers a unique cryptographic hash of the file and generates a transaction-hash and block-hash on the chain.
 This also records time stamp (when the certifcate was recorded on the chain, in UTC time and date format: YYYY-MM-DD) and records the Unique wallet address which registered the certificate and signed the transaction on the chain.
 
-Since, it is a B2B solution, we will issue: 1 Unique Wallet Address for 1 Education Institute and 1 Unique Wallet Address for Study Abroad Consultants
-![image](https://github.com/edubuk/rust-smart-contract/assets/41775852/52cf18ad-b47c-4228-a9aa-19fc37f3ef0c)
+Since, it is a B2B solution, we will issue: 1 Unique Wallet Address for 1 Education Institute, 1 Wallet address for 1 Employer and 1 Unique Wallet Address for each of the Study Abroad Consultant.
 
 Presently we have created the first part of the dApp (recording any certificate individually on the blockchain and getting it verified) on the Blockchain
 

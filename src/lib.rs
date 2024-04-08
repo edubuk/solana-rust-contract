@@ -16,7 +16,6 @@ pub mod edubuk_eseal_solana {
         witness: Pubkey,
         timestamp: UnixTimestamp,
     ) -> Result<()> {
-        msg!("Movie review account created");
         msg!("Certificate issued to: {}", certificate_issued_to);
         msg!("Certificate issued by: {}", certificate_issued_by);
         msg!("Certificate type: {}", certificate_type);

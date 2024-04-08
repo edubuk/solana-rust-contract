@@ -50,6 +50,7 @@ pub struct AddCertificateRecord<'info> {
     pub system_program: Program<'info, System>,
 }
 
+// Structure of Certificate Account State
 #[account]
 pub struct CertificateAccountState {
     pub certificate_issued_to: String,

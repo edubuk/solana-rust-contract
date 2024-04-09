@@ -1,4 +1,4 @@
-**Solana Rust Smart Contract Detail**
+**Edubuk's Rust Smart Contract on Solana Blockchain: Detail**
 The scope of this Solana smart contract, developed using the Anchor framework, is to provide a secure and efficient
 means for managing digital certificate records on the blockchain. It is designed to store critical information about
 certificates, including details about the issuer, recipient, certificate type, and a unique file hash, along
